@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration made at Bodmin in the county of Cornvvall the 21. of November, 1643 by the high-sheriffe, justices of the peace, His Majesties commissioners, gentlemen, &amp; the grand-iury, constables, and freeholders of the said covnty : with their generall and unanimous consents, and so entred in the session rolls, to be kept in record for the satisfaction of all men, concerning the legality of their proceedings in the present wars, in the raising men, money, armes, &amp; amunition for the defence of our religion, laws, and liberty of the subject, and to suppresse all rebells, and specially, now these of the town of Plimouth, to reduce them to loyall obedience.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37351</idno>
+            <idno type="STC">Wing D600</idno>
+            <idno type="STC">ESTC R40376</idno>
+            <idno type="EEBO-CITATION">18970881</idno>
+            <idno type="OCLC">ocm 18970881</idno>
+            <idno type="VID">108510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108510)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1667:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration made at Bodmin in the county of Cornvvall the 21. of November, 1643 by the high-sheriffe, justices of the peace, His Majesties commissioners, gentlemen, &amp; the grand-iury, constables, and freeholders of the said covnty : with their generall and unanimous consents, and so entred in the session rolls, to be kept in record for the satisfaction of all men, concerning the legality of their proceedings in the present wars, in the raising men, money, armes, &amp; amunition for the defence of our religion, laws, and liberty of the subject, and to suppresse all rebells, and specially, now these of the town of Plimouth, to reduce them to loyall obedience.</title>
+               </titleStmt>
+               <extent>[2], 6  p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>February 3, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Revolutions --  England --  Cornwall --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108510:1" rendition="simple:additions"/>
+            <p>
+               <hi>A</hi> DECLARATION MADE AT BODMIN IN THE COUNTY OF CORNVVALL The 21. of <hi>November,</hi> 1643.</p>
+            <p>BY THE HIGH-SHERIFFE JUSTICES OF THE PEACE, His MAjESTIES <hi>Commiſsioners, Gentlemen,</hi> &amp; the <hi>Grand-Iury, Conſta<g ref="char:EOLhyphen"/>bles,</hi> and <hi>Freeholders</hi> of the ſaid COVNTY,</p>
+            <p>With their generall and unanimous Conſents, and ſo entred in the Seſſions Rolls, to be kept in Record for the ſatisfaction of all men, concerning the Legality of their proceedings in the preſent Wars, in the raiſing Men, Money, Armes, &amp; Amunition for the defence of Our Religion, Laws and Liberty of the Subject, and to ſuppreſſe all Rebells, and ſpecially, now theſe of the Town of <hi>Plimouth,</hi> to reduce them to Loyall obedience.</p>
+            <p>OXFORD, <hi>February</hi> 3.</p>
+            <p>Printed by LEONARD LICHFIELD, Printer to the <hi>Vniverſity.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:108510:2"/>
+            <pb n="1" facs="tcp:108510:2"/>
+            <head>
+               <hi>A</hi> DECLARATION MADE AT BODMIN IN THE County of CORNWALL the 21. <hi>of November, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by the Statute made in the 7<hi rend="sup">th</hi> year of <hi>Edw.</hi> the <hi>firſt,</hi> it is Declared; <hi>That to the King it belongeth, and his part it is, to defend all Force againſt his Peace at all times when need ſhal be, and thereto all his Subjects are bound to ayd him at all ſeaſons.</hi> And whereas by other Statutes, made in the 11. year of <hi>Henry</hi> the 7. the <hi>firſt,</hi> &amp; the 19. of the ſame King, the <hi>firſt,</hi> it is declared, <hi>That all Sub<g ref="char:EOLhyphen"/>jects are by their Allegiance bound to ayd His Majeſty a<g ref="char:EOLhyphen"/>gainſt every Rebellion Power and Might reared againſt him.</hi> And likewiſe by another Statute made in the 18. year of <hi>Richard</hi> the 2. the 5. It appeareth, <hi>That all the Subiects of this Realm do thereby binde themſelves to ſtand with our Lord the King in all caſes that ſhall be at<g ref="char:EOLhyphen"/>tempted agaiſt Him, His Crown &amp; regality in all poynts, and therein to live and dye,</hi> as by relation to the ſaid Statutes it doth, and will more punctually appear. We therefore having taken notice of the ſaid Lawes, and
+<pb n="2" facs="tcp:108510:3"/>the obligation wherewith We and all other His Ma<g ref="char:EOLhyphen"/>jeſties Subjects are bound by them, with the uſeful<g ref="char:EOLhyphen"/>neſſe of the ſaid Lawes, and the preſent urgent neceſ<g ref="char:EOLhyphen"/>ſities that lye upon us, and the whole Realm, inten<g ref="char:EOLhyphen"/>ding to ſtand faſt to the obſervation of our Lawes, &amp; the laudable Uſages and Cuſtomes of this Kingdom, in performance of our duties in that behalfe, have thought it convenient to Declare; That upon theſe Reaſons, according to our Allegiance, &amp; by vertue of His Majeſties Commiſſions and gratious directions, granted and ſignified unto us, of His good pleaſure therein, We have done Our beſt endeavours for the preſervation of Our Religion, His Majeſties Peace, the Lawes of the Kingdom, and the Liberties of the Sub<g ref="char:EOLhyphen"/>ject, for ſuppreſsing the hideous and unparalleld Rebellions that have been moved in theſe Weſterne parts of the Kingdom; wherein, with God's bleſsing, We have ſo far prevailed, that the Peace of our Coun<g ref="char:EOLhyphen"/>try hath been hitherto ſo preſerved and kept, that We have enjoyed the benefit of our Lawes of the King<g ref="char:EOLhyphen"/>dom within the ſaid County, &amp; theſe Armies which have been iſſued hence to thoſe good ends, with the aſsiſtance of ſuch others His Majeſties faithfull Sub<g ref="char:EOLhyphen"/>jects that have joyned with them, have obtained Vi<g ref="char:EOLhyphen"/>ctories over the Rebells, &amp; have quieted the Rebellio<g ref="char:cmbAbbrStroke">̄</g> in divers of the Weſtern ſhires of this Realm, and ſpe<g ref="char:EOLhyphen"/>cially in the Neighbouring County of <hi>Devon</hi> (excep<g ref="char:EOLhyphen"/>ting only the Town of <hi>Plimouth,</hi> who continue ob<g ref="char:EOLhyphen"/>ſtinately
+<pb n="3" facs="tcp:108510:3"/>in their Rebellion.) for theſe great bleſsings We aſcribe as is due, all honour &amp; praiſe to Almighty God, &amp; We hereby make known to all men our purpoſes, to proceed, &amp; go on according to the Lawes, and our duties &amp; Allegiance in the ſame courſe we have done, by the continuance of ſupplies of Men, Money, and Armes, with our beſt abilities, for the ſubduing that Rebellious Town of <hi>Plimouth</hi> to their obedience, and for inforcing them to reſtore His Majeſties Fort and Iſland (traiterouſly taken and detained from His Ma<g ref="char:EOLhyphen"/>jeſty with Force, by theſe Rebells) unto His quiet poſ<g ref="char:EOLhyphen"/>ſeſſion again. And We have now made this our De<g ref="char:EOLhyphen"/>claration for the ſatisfaction of all His Majeſties Loy<g ref="char:EOLhyphen"/>all Subjects, of the legality of our Adions, and the clearneſſe of our intentions in the courſe We have ta<g ref="char:EOLhyphen"/>ken, and which we are reſolved upon to continue, to be only that which We are in duty bound to do, &amp; to which every good Subject ought to be obedient; wherein if any of this County be hereafter refracto<g ref="char:EOLhyphen"/>ry or negligent, they are to expect puniſhment for the ſame in a legall way, according to the quality of their offences. And further, in regard ſome ill diſpoſed ſedi<g ref="char:EOLhyphen"/>tious perſons, under fair ſhews of Religion, and teach<g ref="char:EOLhyphen"/>ing liberty, only to ſeduce and deceive the people of this County &amp; others to their own ruine, alleadging, that by ſome other Statutes now in force, the Subjects of this Kingdom, are not bound, nor cannot be drawn or inforced, to go out of their Counties where they
+<pb n="4" facs="tcp:108510:4"/>dwell, or to arme themſelves to that purpoſe againſt their wills, by this means endeavouring to move the people to faction &amp; diſcontent, &amp; with all the power that in them lyeth, to Foſter &amp; continue the Rebellion in the Town of <hi>Plimouth</hi> &amp; elſewhere, though to the diſturbance of the Peace of this County, &amp; the whole Realm. And in regard it may be ſome men that have no evill purpoſes are deceived in their judgements, that have not fully conſidered the words and intenti<g ref="char:EOLhyphen"/>ons of the ſaid Statutes, which were made only to de<g ref="char:EOLhyphen"/>clare, that the Subjects ſhould not be ſo drawn out of their Counties at His Majeſties pleaſure or to any for<g ref="char:EOLhyphen"/>raign War; but there is nothing contained in any of the ſaid Statutes, againſt or contrary to the aforeme<g ref="char:cmbAbbrStroke">̄</g>ti<g ref="char:EOLhyphen"/>oned Statutes, whereby every Subject is bound to be ayding to His Majeſty for the preſervation of His Peace; And in the Statute made the firſt of <hi>Ed.</hi> the 3. the 5. which We have taken notice of, and doth contain in ſubſtance all that is of any effect in any other Statutes, which concern that liberty of the not compel<g ref="char:EOLhyphen"/>ling the Subjects to be, by force, againſt their wills, drawn out of the Counties where they dwell; in the body of that Statute theſe words are expreſſed, <hi>But where neceſsity requires &amp; ſudden comming of ſtrange E<g ref="char:EOLhyphen"/>nemies into the Realm;</hi> Whereby it evide<g ref="char:cmbAbbrStroke">̄</g>tly appeareth, on ſuch occaſions they are obliged by their Allegiance, and may lawfully be compelled to ſerve out of the Counties; And we wiſh all men to conſider that
+<pb n="5" facs="tcp:108510:4"/>both theſe things mentioned in that Statute, are moſt manifeſt in the caſe of the Rebellion of <hi>Plimouth,</hi> where they have now (yet under pretence of Religi<g ref="char:EOLhyphen"/>on) and have ſtill had ſtrangers of Forraigne Nations entertained by them, &amp; the Rebellion it ſelfe, in them<g ref="char:EOLhyphen"/>ſelves is moſt notorious by the traiterous taking of the Kings own Fort, and Iſland by force from Him, and ſo keeping it; their unlawfull making Fortifications, in and about their Town, their violently taking their Neighbours priſoners at their wils, and barbarous u<g ref="char:EOLhyphen"/>ſage of them, and tranſporting them by Sea, their ille<g ref="char:EOLhyphen"/>gall exactions of Mony, Thefts, Robberies, &amp; Mur<g ref="char:EOLhyphen"/>thers of His Majeſties Subjects, committed &amp; conti<g ref="char:EOLhyphen"/>nued by them, their ſeverall bloody Invaſions into this County of <hi>Cornwall,</hi> their violent and inhumane aſſaulting <hi>Mount-Edgecombe</hi> Houſe, their next Neigh<g ref="char:EOLhyphen"/>bour in the ſame County, with other horrid Actio<g ref="char:cmbAbbrStroke">̄</g>s of theirs, tedious to relate, hardly to be exampled in their impieties in any ſtory. We therefore herein clearly de<g ref="char:EOLhyphen"/>clare our opinions, that it is not the meaning of any of the ſaid Statutes, or of any other Law or Statute to free the Subjects from going out of their County in a<g ref="char:EOLhyphen"/>ny caſe of this nature; when neceſſity requires, to pre<g ref="char:EOLhyphen"/>ſerve the Peace of the Realm againſt Rebells, &amp; Trai<g ref="char:EOLhyphen"/>tors of this Kingdom, or againſt any ſtrangers that come into this Kingdom to invade the Land, which if they were ſo to be conſtrued would be moſt perni<g ref="char:EOLhyphen"/>tious to the Subjects themſelves, &amp; for thoſe reaſons
+<pb n="6" facs="tcp:108510:5"/>We beleeve there was ever care had by the Kings of this Realm, &amp; the wiſdom of our Anceſtors, to have no ſuch thing enacted by them, that any County ſhould be thereby reſtrained not to be able to ayd their Neighbour Counties, and the whole Realm, &amp; Subjects thereof, from being able to ayd His Majeſty for the preſervation of His Peace, His Royall Perſon, and the ſupportation of His Regality, Crown &amp; dig<g ref="char:EOLhyphen"/>nity, and juſt Prerogative Royall, &amp; their own Liber<g ref="char:EOLhyphen"/>ties in all they are intereſſed; And We are aſſured the ſubjects of this, &amp; all other Countries of this Kingdom, are by their Allegiance bound to ſupport and uphold the ſame. And We do hereby Declare our wills and intentions are, to proſecute the ſame in all that we are able, and therein as we are confident all the good ſub<g ref="char:EOLhyphen"/>jects of this County, do &amp; will moſt cordially conde<g ref="char:EOLhyphen"/>ſcend and agree with us, ſo we deſire and hope all o<g ref="char:EOLhyphen"/>thers His Maieſties good ſubjects will contribute their beſt ayds and aſſiſtance in the lame, againſt this Inteſtine wicked Rebellion of <hi>Plimouth,</hi> &amp; againſt all other Rebells &amp; Traitors which are in the Kingdom riſen up againſt the Kings Majeſty, &amp; againſt all other Powers or Might, that is, or ſhall be raiſed againſt His Majeſty, for the preſervation of the Peace, His Royall Perſon, the ſupportation of His Crown and Dignity, and for preſervation of the Religion here eſtabli<g ref="char:EOLhyphen"/>ſhed in this Kingdom, and the known Lawes and Liberties of the ſame, according to our, and their Duties and Allegiance.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108510:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
